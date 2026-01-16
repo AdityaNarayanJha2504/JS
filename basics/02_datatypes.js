@@ -33,3 +33,11 @@ console.log(boolValue4)
 let boolValue5=Boolean(strValue5)
 console.log(typeof boolValue5)
 console.log(boolValue5)
+let numVal=33
+let strVal=String(numVal)
+console.log(typeof strVal)
+console.log(strVal)
+let boolVal=0
+let strVal=String(boolVal)
+console.log(typeof strVal)
+console.log(strVal)
