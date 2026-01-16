@@ -41,3 +41,11 @@ let boolVal=0
 let strVal2=String(boolVal)
 console.log(typeof strVal)
 console.log(strVal)
+let numValue=null
+let boolValue=Boolean(numValue)
+console.log(typeof boolValue)
+console.log(boolValue)
+let isActive=true
+isActive=33
+console.log(isActive)
+console.log(typeof isActive)
