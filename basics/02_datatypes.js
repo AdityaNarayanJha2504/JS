@@ -38,6 +38,6 @@ let strVal=String(numVal)
 console.log(typeof strVal)
 console.log(strVal)
 let boolVal=0
-let strVal=String(boolVal)
+let strVal2=String(boolVal)
 console.log(typeof strVal)
 console.log(strVal)
