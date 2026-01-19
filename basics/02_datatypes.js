@@ -49,3 +49,21 @@ let isActive=true
 isActive=33
 console.log(isActive)
 console.log(typeof isActive)
+console.log(typeof bigNumber)
+bigNumber=11111111n
+console.log(typeof bigNumber)
+const id=Symbol('123')
+const anotherId=Symbol('123')
+console.log(typeof id)
+console.log(id===anotherId)
+const heroes=["Shaktiman","Naagraj","Doga","IronMan"]
+let myObj={
+    Name:"Aditya",
+    Age:22,
+}
+const myFunction=function(){
+    console.log("Hello World")
+}
+console.log(typeof heroes)
+console.log(typeof myObj)
+console.log(typeof myFunction)
